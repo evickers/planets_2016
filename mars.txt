@@ -1,1 +1,2 @@
 Mars is a planet. It's red and everything.
+It has two moons.
